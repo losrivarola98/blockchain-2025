@@ -18,8 +18,6 @@ Es posible que se necesite reinstalar las dependencias, en cuyo caso se debe:
 
 **3.** Copiar la dirección del contrato y pegarlo en la variable del archivo .env del directorio *web_app*
 
-**4.** Ejecutar el front-end desde el directorio *web_app*:
-```shell
-npm run dev
-```
+**4.** Ejecutar el front-end desde el directorio *web_app*: `npm run dev`
+
 **5.** Visualizar el mercado en la dirección web que te muestre en consola
