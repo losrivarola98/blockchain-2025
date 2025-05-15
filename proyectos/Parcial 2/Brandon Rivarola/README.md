@@ -2,13 +2,7 @@
 
 ## Dependencias
 
-Es posible que se necesite reinstalar las dependencias, en cuyo caso se debe:
-
-**1.** Borrar las carpetas *node_modules* del directorio raiz y de la carpeta *web_app*
-
-**2.** Borrar los archivos *package-lock.json* del directorio raiz y de la carpeta *web_app*
-
-**3.** Reinstalar las dependencias en el directorio raiz y en la carpeta *web_app* `npm install`
+Se deben instalar las dependencias tanto en el directorio raiz como en el directorio *web_app* `npm install`
 
 ## Instalación y uso
 **1.** Modificar el archivo .env del directorio raiz y colocar la clave privada de la billetera
