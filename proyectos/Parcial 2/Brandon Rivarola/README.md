@@ -2,7 +2,13 @@
 
 ## Dependencias
 
-Puede haber más dependencias en los archivos `package.json` del proyecto y de la carpeta `web_app`. Se recomienda ejecutar `npm install` en ambos directorios para instalar todas las dependencias necesarias.
+Es posible que se necesite reinstalar las dependencias, en cuyo caso se debe:
+
+**1.** Borrar las carpetas *node_modules* del directorio raiz y de la carpeta *web_app*
+
+**2.** Borrar los archivos *package-lock.json* del directorio raiz y de la carpeta *web_app*
+
+**3.** Reinstalar las dependencias en el directorio raiz y en la carpeta *web_app* `npm install`
 
 ## Instalación y uso
 **1.** Modificar el archivo .env del directorio raiz y colocar la clave privada de la billetera
