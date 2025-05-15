@@ -22,4 +22,4 @@ Es posible que se necesite reinstalar las dependencias, en cuyo caso se debe:
 ```shell
 npm run dev
 ```
-**5.** Visualizar el mercado en https://localhost:1537/
+**5.** Visualizar el mercado en la dirección web que te muestre en consola
